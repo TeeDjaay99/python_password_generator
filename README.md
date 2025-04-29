@@ -1,6 +1,6 @@
 # Password Generator
 
-This is a simple Python project that creates a random password using letter, symbols and numbers.
+This is a simple Python project that creates a random password using letters, symbols and numbers.
 
 
 ## Features
